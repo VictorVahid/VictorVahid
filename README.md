@@ -2,7 +2,8 @@
 
 ![[Linkedin]](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![Victor Github Stats](https://github-readme-stats.vercel.app/api?username=VictorVahid&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVahid)](https://github.com/VictorVahid/github-readme-stats)
+![Victor Github Stats](https://github-readme-stats.vercel.app/api?username=VictorVahid&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVahid&layout=compact)
 
 ### Tecnologias que eu utilizo
 
