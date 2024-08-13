@@ -7,6 +7,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVahid&layout=compact&theme=ocean_dark"/>
 </div>
 
+
 ### Tecnologias que eu utilizo
 
 <div style="display: flex; justify-content: space-around;">
